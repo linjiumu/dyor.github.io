@@ -64,7 +64,7 @@
 
 【某机场】
 
-https://reurl.cc/d735Y2
+https://vpn.hkccloud.com/
 
 价格便宜很多，15一个月，100G流量，基本够用
 
