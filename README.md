@@ -56,6 +56,9 @@
 
 日常看推看油管之类的信息用香港更快
 
+重要提示！目前快连明显树大招风了，越来越难用，仅仅适合那些【什么都不想费劲，花钱赶紧解决】的朋友
+我们已经非常不推荐使用快连
+
 
 下载链接（建议复制后使用浏览器打开）：https://bitbucket.org/letsgogo/letsgogo_13/src/master/README.md 
 
@@ -67,7 +70,39 @@
 
 
 
-注意，以上内容都没有推广收益，谢谢
+注意，以上内容都没有推广收益，谢谢，我们怕别人被骗，只给方向，不会用梯子盈利！
+
+机场
+
+机场的好处是足够灵活，性价比高，比如十几元一个月就够了，但缺点是有点搭建难度，做的不好经常会跑路
+
+经过各种测试，推荐一个性价比不错的机场，如果你有梯子也可以去自己谷歌搜一搜
+
+https://flyingbird.pro/
+飞鸟机场
+
+15元一个月，不限制在线设备数 100G流量，国家还好
+
+安卓端需要下载个代理APP
+CLASH
+https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk
+考虑上述下载
+然后在飞鸟主页一键导入
+
+PC端下载
+https://dl.jichangzhu.com/clients/clash_for_windows/releases/latest/
+也可以一键导入
+
+苹果端
+需要有个美区账号，下载shadowrocket
+这是个付费的APP
+https://shadowsockshelp.github.io/ios/
+考虑用上述链接成功安装即可
+一样可以一键导入
+我建议每个人都有个美区账号，买个没有几块钱
+
+梯子目前就这样吧
+
 
 
 接码
