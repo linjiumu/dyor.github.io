@@ -116,7 +116,9 @@ https://shadowsockshelp.github.io/ios/
 
 梯子目前就这样吧
 
+https://github.com/hwanz/SSR-V2ray-Trojan
 
+这是别人做的机场综合，你们自己去找也可以，关键是学会用机场
 
 接码
 
