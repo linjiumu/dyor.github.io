@@ -78,25 +78,25 @@
 
 经过各种测试，推荐一个性价比不错的机场，如果你有梯子也可以去自己谷歌搜一搜
 
-https://flyingbird.pro/
+[https://flyingbird.pro/](https://surfcloud.club/#/login)
 
-飞鸟机场
+冲浪云
 
-15元一个月，不限制在线设备数 100G流量，国家还好
+20元一个月，不限制在线设备数 300G流量 不限设备
 
 安卓端需要下载个代理APP
 
 CLASH
 
-https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk
+https://sabrinathings.lanzouf.com/im3Hi0g8t25g
 
 考虑上述下载
 
-然后在飞鸟主页一键导入
+然后一键导入
 
 PC端下载
 
-https://dl.jichangzhu.com/clients/clash_for_windows/releases/latest/
+https://sabrinathings.lanzouf.com/i31SL0sd7mbc
 
 也可以一键导入
 
@@ -111,6 +111,12 @@ https://shadowsockshelp.github.io/ios/
 考虑用上述链接成功安装即可
 
 一样可以一键导入
+
+或者你用共享账号下载
+Apple ID：ikuuu1223@rwesdhytjuftyhdafsdgfrh.club
+密码：FBlo630625
+
+
 
 我建议每个人都有个美区账号，买个没有几块钱
 
@@ -136,23 +142,4 @@ https://sms.qisms.com/index
 
 第一个平台的流程为
 
-邮箱注册
 
-支付宝充值
-
-找到OPENAI接码
-
-尝试便宜的国家
-
-购买获得手机号
-
-填入GPT注册栏获取验证码
-
-等接码平台显示验证码
-
-（如果5分钟后不出现，则可点X释放，换个新的尝试，费用返还）
-
-填入GPT验证码栏
-
-过关
- 
