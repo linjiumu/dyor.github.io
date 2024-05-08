@@ -1,4 +1,4 @@
-# 梯子使用和接码平台
+# 梯子使用
 
 我们这没有免费梯子，免费的梯子目前只是浪费时间，找各种梯子也是浪费时间
 
@@ -49,14 +49,11 @@
 
 不限流量，可随便用
 
-注册Chatgpt时切换为美国，速度很一般，但安全可通过，不过使用的时候可能会经常需要重新登录
-但是对必应支持不好！切记
-
 注意速度确实很一般
 
 日常看推看油管之类的信息用香港更快
 
-重要提示！目前快连明显树大招风了，越来越难用，仅仅适合那些【什么都不想费劲，花钱赶紧解决】的朋友
+目前快连明显树大招风了，越来越难用，仅仅适合那些【什么都不想费劲，花钱赶紧解决】的朋友
 我们已经非常不推荐使用快连
 
 
@@ -78,7 +75,7 @@
 
 经过各种测试，推荐一个性价比不错的机场，如果你有梯子也可以去自己谷歌搜一搜
 
-[https://flyingbird.pro/](https://surfcloud.club/#/login)
+https://surfcloud.club/#/login
 
 冲浪云
 
@@ -102,7 +99,10 @@ https://sabrinathings.lanzouf.com/i31SL0sd7mbc
 
 苹果端
 
-需要有个美区账号，下载shadowrocket
+需要有个美区账号，下载shadowrocket或者
+Stash
+Surge
+Quantumult X
 
 这是个付费的APP
 
@@ -125,21 +125,5 @@ Apple ID：ikuuu1223@rwesdhytjuftyhdafsdgfrh.club
 https://github.com/hwanz/SSR-V2ray-Trojan
 
 这是别人做的机场综合，你们自己去找也可以，关键是学会用机场
-
-接码
-
-关于全世界可用的手机号问题
-
-接ma平台一
-
-https://sms-activate.org/cn/
-
-接ma平台二
-
-https://sms.qisms.com/index
-
-自己注册充值解决，难度很低
-
-第一个平台的流程为
 
 
