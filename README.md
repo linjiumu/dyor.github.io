@@ -79,9 +79,20 @@ https://surfcloud.club/#/login
 
 冲浪云
 
-20元一个月，不限制在线设备数 300G流量 不限设备
+20元一个月，不限制在线设备数 300G流量
 
-安卓端需要下载个代理APP
+flyingbird.cc
+flyingbird.pro
+flyingbird.la
+fba01.fbva-s3h.cc
+飞鸟机场
+15一个月，不限设备，100G
+
+机场尴尬之处在于你没梯子好像还打不开网页
+实在太尴尬了只能多试试了
+
+
+安卓端用机场需要下载个代理APP
 
 CLASH
 
@@ -89,13 +100,15 @@ https://sabrinathings.lanzouf.com/im3Hi0g8t25g
 
 考虑上述下载
 
-然后一键导入
+然后去您购买机场的页面一键导入，手机上也可以
 
 PC端下载
 
 https://sabrinathings.lanzouf.com/i31SL0sd7mbc
 
 也可以一键导入
+
+（谨记，机场有攻略解释，也都有客服可以找到，而有的客服在飞机，没梯子还上不去，就这么难受）
 
 苹果端
 
@@ -104,6 +117,7 @@ Stash
 Surge
 Quantumult X
 
+shadowrocket
 这是个付费的APP
 
 https://shadowsockshelp.github.io/ios/
@@ -116,7 +130,7 @@ https://shadowsockshelp.github.io/ios/
 Apple ID：ikuuu1223@rwesdhytjuftyhdafsdgfrh.club
 密码：FBlo630625
 
-
+（不保证一定能用）
 
 我建议每个人都有个美区账号，买个没有几块钱
 
